@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SantanderApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_investiments">Investimentos</string>
+    <string name="title_contact">Contato</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="contato">Contato</string>
+    <string name="investimento">Investimento</string>
+
+    <string name="mes">No mês</string>
+    <string name="ano">No Ano</string>
+    <string name="meses">12 meses</string>
+
+    <string name="fundo">Fundo</string>
+    <string name="cdi">CDI</string>
+
+    <string name="investir">Investir</string>
+
+    <string name="sucesso">Mensagem enviada com sucesso :)</string>
+    <string name="obrigado">Obrigado!</string>
+    <string name="novaMensagem">Enviar nova mensagem</string>
+
+    <string name="baixar">Baixar</string>
+</resources>
